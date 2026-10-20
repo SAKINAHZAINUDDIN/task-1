@@ -1,6 +1,5 @@
 
-> Open this page at [https://sakinahzainuddin.github.io/task-1/](https://sakinahzainuddin.github.io/task-1/](https://NAMA-GITHUB.github.io/yummy-farm/yummy-farm-selfhost.html)
-
+> Open this page at https://NAMA-GITHUB.github.io/yummy-farm/yummy-farm-selfhost.html
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
